@@ -1,10 +1,10 @@
-const CACHE_NAME = 'prepweek-v1';
+const CACHE_NAME = 'prepweek-v2';
 const ASSETS = [
-  './',
-  './index.html',
-  './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  '/MealPrepTool/',
+  '/MealPrepTool/index.html',
+  '/MealPrepTool/manifest.json',
+  '/MealPrepTool/icon-192.png',
+  '/MealPrepTool/icon-512.png'
 ];
 
 // Install: cache all assets
