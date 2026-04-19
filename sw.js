@@ -1,7 +1,7 @@
 const CACHE_NAME = 'prepweek-v1';
 const ASSETS = [
   './',
-  './prepweek_pwa.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
