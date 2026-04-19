@@ -2,7 +2,7 @@
   "name": "Prep Week",
   "short_name": "PrepWeek",
   "description": "Meal prep planning system — weekly setup, daily use.",
-  "start_url": "./prepweek_pwa.html",
+  "start_url": "/MealPrepTool/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FAF7F2",
